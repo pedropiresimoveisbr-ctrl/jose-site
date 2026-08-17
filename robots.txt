@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /privacidade.html
-
-Sitemap: https://SEU-USUARIO.github.io/SEU-REPOSITORIO/sitemap.xml
